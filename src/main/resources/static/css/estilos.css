@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+h1, h2, h3 {
+    color: #FF0000;
+}
+
+p, label, input, textarea {
+    color: grey;
+}
+
+section {
+    padding: 20px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px grey;
+}
+
+aside {
+    padding: 15px;
+    background-color: white;
+    margin: 20px;
+    border-left: 5px solid red;
+}
+
+footer {
+    position: fixed;
+    text-align: center;
+    padding: 15px;
+    background-color: #FF0000;
+    left: 0;
+    bottom: 0;
+    height: 5%;
+    width: 100%;        
+}
