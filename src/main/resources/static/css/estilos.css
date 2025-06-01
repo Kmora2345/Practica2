@@ -5,8 +5,8 @@ body {
     background-color: white;
 }
 
-h1, h2, h3 {
-    color: #FF0000;
+h1, h2, h3{
+    color: red;
 }
 
 p, label, input, textarea {
@@ -32,7 +32,7 @@ footer {
     position: fixed;
     text-align: center;
     padding: 15px;
-    background-color: #FF0000;
+    background-color: red;
     left: 0;
     bottom: 0;
     height: 5%;
